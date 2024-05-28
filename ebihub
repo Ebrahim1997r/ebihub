@@ -22,7 +22,7 @@ lib-cov 666
 coverage
 *.lcov 777
 
-# nyc test coverage
+# nyc test coverage888
 .nyc_output
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
