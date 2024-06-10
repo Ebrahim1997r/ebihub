@@ -42,7 +42,7 @@ node_modules/ 777
 jspm_packages/ 888
 
 # TypeScript v1 declaration files 999
-typings/
+typings/000
 
 # TypeScript cache
 *.tsbuildinfo
