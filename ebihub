@@ -51,7 +51,7 @@ typings/000
 .npm 444
 
 # Optional eslint cache 555
-.eslintcache
+.eslintcache666
 
 # Microbundle cache
 .rpt2_cache/
