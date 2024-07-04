@@ -77,7 +77,7 @@ typings/000
 000
 # Next.js build output
 .next
-
+111
 # Nuxt.js build / generate output
 .nuxt
 dist
