@@ -84,7 +84,7 @@ dist
 333
 # Gatsby files 444
 .cache/ 555
-# Comment in the public line in if your project uses Gatsby and *not* Next.js
+# Comment in the public line in if your project uses Gatsby and *not* Next.js 666
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
