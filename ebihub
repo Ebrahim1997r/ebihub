@@ -87,7 +87,7 @@ dist
 # Comment in the public line in if your project uses Gatsby and *not* Next.js 666
 # https://nextjs.org/blog/next-9-1#public-directory-support 777
 # public
-
+888
 # vuepress build output
 .vuepress/dist
 
