@@ -88,7 +88,7 @@ dist
 # https://nextjs.org/blog/next-9-1#public-directory-support 777
 # public
 888
-# vuepress build output
+# vuepress build output999
 .vuepress/dist
 
 # Serverless directories
