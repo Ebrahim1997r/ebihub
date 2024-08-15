@@ -20,7 +20,7 @@ lib-cov 666
 
 # Coverage directory used by tools like istanbul...
 coverage
-*.lcov 777
+*.lcov 777123
 
 # nyc test coverage888
 .nyc_output 999
