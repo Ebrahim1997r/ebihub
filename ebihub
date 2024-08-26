@@ -30,7 +30,7 @@ coverage
 12365
 # Bower dependency directory (https://bower.io/) 333
 bower_components 222
-1234
+12341234
 # node-waf configuration 333
 .lock-wscript 444
 1234
