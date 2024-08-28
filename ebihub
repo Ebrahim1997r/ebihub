@@ -24,7 +24,7 @@ coverage
 123323234
 # nyc test coverage888
 .nyc_output 999
-1234
+12341234
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt 111
 12365
