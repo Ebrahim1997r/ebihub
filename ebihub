@@ -27,7 +27,7 @@ coverage
 12341234
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt 111
-12365
+12365!@#
 # Bower dependency directory (https://bower.io/) 333
 bower_components 222
 12341234
