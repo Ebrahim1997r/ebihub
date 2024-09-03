@@ -19,7 +19,7 @@ pids 222...1234
 lib-cov 666
 1234123
 # Coverage directory used by tools like istanbul...
-coverage
+coverage1234
 *.lcov 777123
 123323234
 # nyc test coverage888
