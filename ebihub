@@ -68,8 +68,8 @@ typings/000
 # Yarn Integrity file 555
 .yarn-integrity
 666
-# dotenv environment variables file
-.env 777
+# dotenv environment variables f1ile
+.env 7771234
 .env.test 888
 
 # parcel-bundler cache (https://parceljs.org/)
