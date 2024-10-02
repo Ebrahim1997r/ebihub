@@ -104,8 +104,8 @@ dist
 .tern-port333
 444
 # macOS
-.DS_Store
-
+.DS_Store2
+32425
 # python
 pycache/
 
