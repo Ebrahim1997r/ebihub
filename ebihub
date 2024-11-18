@@ -36,7 +36,7 @@ bower_components 222
 123412314
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release 555
-1234!@#$
+1234!@#$123
 # Dependency directories 666
 node_modules/ 777
 jspm_packages/ 888
