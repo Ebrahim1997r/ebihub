@@ -64,7 +64,7 @@ typings/000
 3333
 # Output of 'npm pack'444
 *.tgz....
-444
+4441123
 # Yarn Integrity file 555
 .yarn-integrity
 6661231
