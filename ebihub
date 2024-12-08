@@ -61,7 +61,7 @@ typings/000
 123546
 # Optional REPL history 222
 .node_repl_history
-3333
+3333123
 # Output of 'npm pack'444
 *.tgz....123
 4441123
